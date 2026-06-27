@@ -156,32 +156,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn mlflow
 ---
 
 ## Running the Project
+----
 
 ### Step 1
-
-Clone the repository.
-
-```bash
-git clone <repository-url>
-```
-
-### Step 2
-
-Navigate to the project directory.
-
-```bash
-cd MLflow_Project
-```
-
-### Step 3
-
-Launch Jupyter Notebook.
-
-```bash
-jupyter notebook
-```
-
-### Step 4
 
 Run the notebooks in the following order:
 
@@ -251,6 +228,4 @@ This project helps in understanding:
 
 
 
-## License
 
-This project is developed for educational and learning purposes.
